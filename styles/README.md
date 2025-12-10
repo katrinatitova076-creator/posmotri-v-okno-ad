@@ -1,0 +1,1 @@
+https://github.com/katrinatitova076-creator/posmotri-v-okno-ad/blob/main/scripts/script.js
